@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "CommonJS",
+        "sourceMap": true,
+        "outDir": "../dist",
+        "types": [
+            "node"
+        ]
+    },
+    "include": [
+        "../src/server/**/*.ts"
+    ]
+}

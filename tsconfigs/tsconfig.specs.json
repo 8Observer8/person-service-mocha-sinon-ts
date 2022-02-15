@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES5",
+        "outDir": "../dist/specs",
+        "sourceMap": true,
+        "types": [
+            "mocha",
+            "node"
+        ]
+    },
+    "include": [
+        "../specs/shared/**/*.ts"
+    ]
+}
