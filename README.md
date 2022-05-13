@@ -15,6 +15,7 @@ Go to browser and type: localhost:3000
 Build and run tests:
 
 > npm run specs
+
 > npm test
 
 Build release (uncomment "Release" and comment "Debug" in the "index.html" file):
