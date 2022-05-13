@@ -21,6 +21,6 @@ Build release (uncomment "Release" and comment "Debug" in the "index.html" file)
 
 > npm run release
 
-ToDo
+ToDo:
 
 - Add "sinon" to "tsconfigs/tsconfig.specs.json"
