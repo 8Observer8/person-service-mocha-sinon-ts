@@ -20,3 +20,7 @@ Build and run tests:
 Build release (uncomment "Release" and comment "Debug" in the "index.html" file):
 
 > npm run release
+
+ToDo
+
+- Add "sinon" to "tsconfigs/tsconfig.specs.json"
